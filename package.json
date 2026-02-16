@@ -1,0 +1,36 @@
+{
+  "name": "hiba-birthday",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "@react-three/fiber": "^8.15.16",
+    "@react-three/drei": "^9.96.3",
+    "@react-three/postprocessing": "^2.16.0",
+    "three": "^0.161.0",
+    "gsap": "^3.12.5",
+    "framer-motion": "^11.0.5",
+    "lenis": "^1.0.42",
+    "postprocessing": "^6.34.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/three": "^0.161.0",
+    "typescript": "^5",
+    "tailwindcss": "^3.4.1",
+    "postcss": "^8",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "15.1.0"
+  }
+}
